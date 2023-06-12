@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_add_platform.py:21 Started Test PLATFORM Integration

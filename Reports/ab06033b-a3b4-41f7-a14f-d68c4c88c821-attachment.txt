@@ -1,0 +1,14 @@
+[32mINFO    [0m WDM:logger.py:27 
+
+[32mINFO    [0m WDM:logger.py:27 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:27 Current google-chrome version is 100.0.4896
+[32mINFO    [0m WDM:logger.py:27 Get LATEST chromedriver version for 100.0.4896 google-chrome
+[32mINFO    [0m WDM:logger.py:27 Driver [/home/c-sohans/.wdm/drivers/chromedriver/linux64/100.0.4896.60/chromedriver] found in cache
+[32mINFO    [0m root:test_login_amagi_admin.py:21 Start Test_002_amagi_admin_Login Test
+[32mINFO    [0m root:test_login_amagi_admin.py:22 Validating Login with amagi admin user
+[32mINFO    [0m root:test_login_amagi_admin.py:42 Test Passed with valid credentials
+[32mINFO    [0m root:test_login_amagi_admin.py:55 Test Passed with Invalid credentials
+[32mINFO    [0m root:test_login_amagi_admin.py:42 Test Passed with valid credentials
+[32mINFO    [0m root:test_login_amagi_admin.py:55 Test Passed with Invalid credentials
+[32mINFO    [0m root:test_login_amagi_admin.py:60 Test_002_amagi_admin_Login Test is Passed
+[32mINFO    [0m root:test_login_amagi_admin.py:67 Test_002_amagi_admin_Login Test is Completed

@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_add_feed.py:21 Started Test_ADD_FEED test

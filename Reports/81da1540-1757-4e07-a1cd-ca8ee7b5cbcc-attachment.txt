@@ -1,0 +1,7 @@
+[32mINFO    [0m WDM:logger.py:27 
+
+[32mINFO    [0m WDM:logger.py:27 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:27 Current google-chrome version is 100.0.4896
+[32mINFO    [0m WDM:logger.py:27 Get LATEST chromedriver version for 100.0.4896 google-chrome
+[32mINFO    [0m WDM:logger.py:27 Driver [/home/c-sohans/.wdm/drivers/chromedriver/linux64/100.0.4896.60/chromedriver] found in cache
+[32mINFO    [0m root:test_media_ingest_verification.py:250 Started Test_004_Add_Content_Partner Test

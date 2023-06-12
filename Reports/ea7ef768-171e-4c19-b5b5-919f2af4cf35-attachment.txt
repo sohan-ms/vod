@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_add_content_partners.py:19 Started Test_Add_Content_Partner Test
